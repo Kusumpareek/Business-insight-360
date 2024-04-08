@@ -4,7 +4,9 @@ Welcome to Business Insights 360 - Your Gateway to Data-Driven Decision Making!
 
 This project is a comprehensive Power BI dashboard developed to analyze and visualize key performance metrics across various departments at AtliQ Hardware. It provides actionable insights into finance, sales, marketing, supply chain, and executive operations, empowering stakeholders to make informed decisions for strategic growth.
 
-Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZWMyZmQzOTMtM2Q5Yy00NGY2LTljNjgtNzUxZmQ3ZDQ4YTlhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionbeb362690899366c9ed9
+## Live Dashboard
+
+Explore the live dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiZWMyZmQzOTMtM2Q5Yy00NGY2LTljNjgtNzUxZmQ3ZDQ4YTlhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSectionbeb362690899366c9ed9).
 
 ## Features
 
@@ -15,19 +17,20 @@ Live Dashboard: https://app.powerbi.com/view?r=eyJrIjoiZWMyZmQzOTMtM2Q5Yy00NGY2L
 - **Executive View**: Get high-level insights with KPI cards and revenue breakdowns.
 
 ## Data Sources
+
 The dashboard gathers data from two primary sources:
 
-    1.Targets and Market Share data, along with related information, are collected from Excel and CSV files.
-    2. MySQL Database: Essential facts and dimensions for all departments are pulled from a MySQL database.
+1. **Excel/CSV Files**: Targets and Market Share data, along with related information, are collected from Excel and CSV files.
+2. **MySQL Database**: Essential facts and dimensions for all departments are pulled from a MySQL database.
 
-## Skills learned 
-  
-    ➡️ Power BI data modeling
-    ➡️DAX calculations
-    ➡️Compelling visualization techniques
-    ➡️Data interpretation
-    ➡️Dashboard design principles
-    ➡️User-centric design
-    ➡️Stakeholder communication
-    ➡️File size optimization using DAX Studio
-    ➡️Data integration from various sources like Excel/CSV files, MySQL database, etc.
+## Skills Learned
+
+- Power BI data modeling
+- DAX calculations
+- Compelling visualization techniques
+- Data interpretation
+- Dashboard design principles
+- User-centric design
+- Stakeholder communication
+- File size optimization using DAX Studio
+- Data integration from various sources like Excel/CSV files, MySQL database, etc.
